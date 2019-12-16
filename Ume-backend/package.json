@@ -1,0 +1,14 @@
+{
+  "name": "ume-backend",
+  "version": "1.0.0",
+  "description": "web app to track consumed calories, fats, carbs and proteins against daily norm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Loktiev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
